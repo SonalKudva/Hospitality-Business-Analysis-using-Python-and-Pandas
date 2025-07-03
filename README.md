@@ -1,4 +1,3 @@
-# Hospitality-Business-Analysis-using-Python-and-Pandas
 Tools: Python, Pandas, Matplotlib, Data Cleaning, Data Transformation
 
 Cleaned and analyzed 5+ CSV datasets containing booking, hotel, and room data to understand occupancy trends and revenue performance.
